@@ -73,8 +73,10 @@ on the edge](https://ieeexplore.ieee.org/abstract/document/9151086), CVPRW, July
 
 35- Stefan Dan Ciocirlan et. al, [The Accuracy and Efficiency of Posit Arithmetic](https://arxiv.org/abs/2104.04763), arXiv, Sept. 16. 
 
-36- M. Cococcioni et. al., [A Lightweight Posit Processing Unit for RISC-V Processors in Deep Neural Network Applications](https://ieeexplore.ieee.org/document/9583876), TETC, Oct. 21. 
+36- M. Cococcioni et. al., [A Lightweight Posit Processing Unit for RISC-V Processors in Deep Neural Network Applications](https://ieeexplore.ieee.org/document/9583876), IEEE Trans. on Emerging Topics in Computing, Oct. 21. 
+
+37- M. Cococcioni et. al., [Vectorizing Posit Operations on RISC-V for faster Deep Neural Networks: Experiments and Comparison with ARM SVE](https://link.springer.com/article/10.1007/s00521-021-05814-0), Neural Computing and Applications, vol.33, no. 16, pp. 10575--10585	  
 
 # 2022
-37- M. Cococcioni et. al., [ Small reals representations for Deep Learning at the edge: a comparison ](https://www.researchgate.net/publication/358884612_Small_reals_representations_for_Deep_Learning_at_the_edge_a_comparison),
+38- M. Cococcioni et. al., [Small reals representations for Deep Learning at the edge: a comparison ](https://www.researchgate.net/publication/358884612_Small_reals_representations_for_Deep_Learning_at_the_edge_a_comparison),
 in Proc. of the Int. Conference on Next Computer Arithmetics (CoNGA'22), March 2.
